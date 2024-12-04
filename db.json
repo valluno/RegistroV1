@@ -1,0 +1,14 @@
+{
+ "registros":[
+   
+    {
+        "id": 1,
+        "name": "REGISTRO DE PRUEBA"
+      },
+      {
+        "id": 2,
+        "name": "REGISTRO DE PRUEBA 2"
+      }
+    
+  ]
+}
